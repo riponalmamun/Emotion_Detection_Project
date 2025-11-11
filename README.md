@@ -1,4 +1,7 @@
 # Emotion Detection Web App
+<img width="1019" height="628" alt="image" src="https://github.com/user-attachments/assets/04fb74fd-c67b-482d-9d6f-1995a8d5d9e2" />
+<img width="1762" height="888" alt="image" src="https://github.com/user-attachments/assets/855f382b-e1d3-453e-aa76-ddfca5605468" />
+
 
 ## Overview
 
